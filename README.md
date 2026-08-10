@@ -32,7 +32,7 @@ Library eksternal yang dibutuhkan:
 
 1. Clone repositori ini ke penyimpanan lokal kamu:
    ```bash
-   git clone [https://github.com/difnsy/NH-Tools.git](https://github.com/difnsy/NH-Tools.git)
+   git clone https://github.com/difnsy/NH-Tools.git
 2. Install Library eksternal:
    ```bash
    pip install httpx beautifulsoup4
